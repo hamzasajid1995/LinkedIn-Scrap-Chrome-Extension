@@ -1,17 +1,19 @@
-# Chrome Extension template
+# LinkedIn Scrap Chrome Extension
+
+## Basic Extension Template
+https://github.com/times/chrome-extension-template
 
 ## Installation
 
-1.  Clone this repositiory
-2.  Install the dependencies
+ Install the dependencies
     ```
     $ yarn
     ```
-3.  Create the build folder
+Create the build folder
     ```
     $ yarn build
     ```
-4.  Open a Google Chrome browser tab:
+Open a Google Chrome browser tab:
     - Click the 3 vertical dots to the right of the address bar
     - Scroll down to _More Tools_
     - On the drop down click _Extensions_ - new tab called "Extensions" should
@@ -29,11 +31,6 @@ To watch for any changes use the command:
 ```bash
 $ yarn start
 ```
-
-## Tests
-
-A suite of tests is available by running:
-
-```bash
-$ yarn test
-```
+## Instructions
+Go to LinkedIn profile page and click scrap to see user's name, title and location
+more details can be seen by adding relevant quries in index.js
