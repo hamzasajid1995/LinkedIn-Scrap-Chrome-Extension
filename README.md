@@ -6,9 +6,9 @@ https://github.com/times/chrome-extension-template
 ## Installation
 
  Install the dependencies
-    ```
-    $ yarn
-    ```
+```
+$ yarn
+```
 Create the build folder
     ```
     $ yarn build
