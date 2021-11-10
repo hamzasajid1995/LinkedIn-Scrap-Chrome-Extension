@@ -6,13 +6,17 @@ https://github.com/times/chrome-extension-template
 ## Installation
 
  Install the dependencies
+ 
     ```
     $ yarn
     ```
+    
 Create the build folder
+
     ```
     $ yarn build
     ```
+    
 Open a Google Chrome browser tab:
     - Click the 3 vertical dots to the right of the address bar
     - Scroll down to _More Tools_
