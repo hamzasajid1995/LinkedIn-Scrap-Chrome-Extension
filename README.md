@@ -19,9 +19,9 @@ Open a Google Chrome browser tab:
 - On the drop down click _Extensions_ - new tab called "Extensions" should open.
 - Make sure "Developer mode" is enabled.
 
-5.  Browse to the folder that was created after step one (usually named
+Browse to the folder that was created after step one (usually named
     `./build`) and select "Open".
-6.  The extension should now be installed, you will be able to see the icon on
+The extension should now be installed, you will be able to see the icon on
     the right of the address bar.
 
 ## To Run Locally
